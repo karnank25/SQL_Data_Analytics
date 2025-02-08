@@ -16,7 +16,7 @@ The project is based on the following CSV files:
 **Query:** `1_Top_Paying_Job.sql`
 - Extracted the top job roles in the data analytics field with the highest average salaries.
 - **Insight:** Data Engineer and Data Scientist roles have the highest salaries.
-- [Project_SQL_Folder]
+- [Project_SQL_Folder](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/1_Top_Paying_Job.sql)
 
 ### 2. Top Paying Job Skills
 **Query:** `2_Top_Paying_job_Skills.sql`
