@@ -16,24 +16,22 @@ The project is based on the following CSV files:
 **Query:** `1_Top_Paying_Job.sql`
 - Extracted the top job roles in the data analytics field with the highest average salaries.
 - **Insight:** Data Engineer and Data Scientist roles have the highest salaries.
-- **Chart:** Bar graph comparing the average salaries for job roles.
+- [Project_SQL_Folder]
 
 ### 2. Top Paying Job Skills
 **Query:** `2_Top_Paying_job_Skills.sql`
 - Identified the skills with the highest associated salaries.
 - **Insight:** PySpark and Bitbucket command the highest average salaries.
-- **Chart:** Bar graph displaying top-paying skills.
+
 
 ### 3. Most Demanded Skills
 **Query:** `3_Top_demanded_Skills.sql`
 - Analyzed skills that appear most frequently in job postings.
 - **Insight:** SQL, Python, and Pandas are the most in-demand skills.
-- **Chart:** Bar graph showcasing the job count for each skill.
 
 ### 4. Top Paying Skills Analysis
 **Query:** `4_Top_Paying_skills.sql`
 - Focused on skills yielding optimal salary ranges.
-- **Insight:** Couchbase and Watson offer competitive salaries beyond traditional tools.
 
 ### 5. Optimal Skills for Career Growth
 **Query:** `5_Optimal_Skills.sql`
@@ -53,12 +51,6 @@ To provide better insights, the following charts were generated:
 
 ## Conclusion
 This project highlights actionable insights for data analysts and aspirants, providing guidance on key skills and job roles to target in the ever-evolving data analytics job market.
-
-## How to Run
-1. Load the provided CSV files into a database.
-2. Execute the SQL queries in the provided order.
-3. Generate charts using Python and Matplotlib (code snippets shared in the documentation).
-4. Interpret the charts and insights for reporting.
 
 ## Technologies Used
 - **SQL:** For querying and extracting insights.
