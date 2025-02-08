@@ -1,4 +1,8 @@
 # Data Analytics Project: Top Paying and Demanded Skills for Data Analysts
+[Top Paying Job Query](./project_files/1_Top_Paying_Job.sql)
+[Top Paying Skills Query](./project_files/2_Top_Paying_Skills.sql)
+[Demanded Skills Query](./project_files/3_Demanded_Skills.sql)
+
 
 ## Project Overview
 This project provides insights into top-paying job roles and skills for data analysts based on recent job postings data from 2023. The analysis helps identify optimal skills for aspiring data analysts to target high-paying job opportunities.
@@ -17,6 +21,7 @@ The project is based on the following CSV files:
 - Extracted the top job roles in the data analytics field with the highest average salaries.
 - **Insight:** Data Engineer and Data Scientist roles have the highest salaries.
 - [Project_SQL_Folder](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/1_Top_Paying_Job.sql)
+- ![Top Paying Roles]()
 
 ### 2. Top Paying Job Skills
 **Query:** `2_Top_Paying_job_Skills.sql`
