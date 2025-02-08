@@ -22,21 +22,25 @@ The project is based on the following CSV files:
 **Query:** `2_Top_Paying_job_Skills.sql`
 - Identified the skills with the highest associated salaries.
 - **Insight:** PySpark and Bitbucket command the highest average salaries.
+- [Project_SQL_Folder](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/2_Top_Paying_job_Skills.sql)
 
 
 ### 3. Most Demanded Skills
 **Query:** `3_Top_demanded_Skills.sql`
 - Analyzed skills that appear most frequently in job postings.
 - **Insight:** SQL, Python, and Pandas are the most in-demand skills.
+- [Project_SQL_Folder](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/3_Top_demanded_Skills.sql)
 
 ### 4. Top Paying Skills Analysis
 **Query:** `4_Top_Paying_skills.sql`
 - Focused on skills yielding optimal salary ranges.
+- [Project_SQL_Folder](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/4_Top_Paying_skills.sql)
 
 ### 5. Optimal Skills for Career Growth
 **Query:** `5_Optimal_Skills.sql`
 - Mapped high-paying and high-demand skills.
 - **Insight:** Skills like SQL, Pandas, and PySpark are crucial for data analysts seeking career growth.
+- [Project_SQL_Folder](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/5_Optimal_Skills.sql)
 
 ## Visualizations
 To provide better insights, the following charts were generated:
