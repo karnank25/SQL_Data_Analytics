@@ -1,8 +1,4 @@
 # Data Analytics Project: Top Paying and Demanded Skills for Data Analysts
-[Top Paying Job Query](./project_files/1_Top_Paying_Job.sql)
-[Top Paying Skills Query](./project_files/2_Top_Paying_Skills.sql)
-[Demanded Skills Query](./project_files/3_Demanded_Skills.sql)
-
 
 ## Project Overview
 This project provides insights into top-paying job roles and skills for data analysts based on recent job postings data from 2023. The analysis helps identify optimal skills for aspiring data analysts to target high-paying job opportunities.
@@ -21,13 +17,14 @@ The project is based on the following CSV files:
 - Extracted the top job roles in the data analytics field with the highest average salaries.
 - **Insight:** Data Engineer and Data Scientist roles have the highest salaries.
 - [Project_SQL_Folder](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/1_Top_Paying_Job.sql)
-- ![Top Paying Roles]()
+- ![Top Paying Roles](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/Query_1.png)
 
 ### 2. Top Paying Job Skills
 **Query:** `2_Top_Paying_job_Skills.sql`
 - Identified the skills with the highest associated salaries.
 - **Insight:** PySpark and Bitbucket command the highest average salaries.
 - [Project_SQL_Folder](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/2_Top_Paying_job_Skills.sql)
+- ![Top Paying Job Skills](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/Query_2.png)
 
 
 ### 3. Most Demanded Skills
@@ -35,6 +32,7 @@ The project is based on the following CSV files:
 - Analyzed skills that appear most frequently in job postings.
 - **Insight:** SQL, Python, and Pandas are the most in-demand skills.
 - [Project_SQL_Folder](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/3_Top_demanded_Skills.sql)
+- ![Most Demanded Skills](https://github.com/karnank25/SQL_Data_Analytics/blob/master/Project_SQL/Query_3.png)
 
 ### 4. Top Paying Skills Analysis
 **Query:** `4_Top_Paying_skills.sql`
